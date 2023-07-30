@@ -12,5 +12,9 @@ public class DemoDay2 {
 	public static void substract(int a, int b) {
 		System.out.println(a-b);
 	}
+	//Yasir
+	public static void divede(int a, int b) {
+		System.out.println(a/b);
+	}
 
 }
